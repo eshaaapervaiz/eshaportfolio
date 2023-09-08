@@ -1,0 +1,27 @@
+.navbar-nav .nav-item{
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+
+}
+.navbar-brand .navbar-text
+{
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: rgb(228, 135, 49);
+}
+.subtitle{
+    font-weight: 500;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+.section_padding{
+    padding: 100px 0px;
+}
+.fa-solid{
+    font-size: 50px;
+}
+.fa-brands{
+    font-size: 25px;
+}
